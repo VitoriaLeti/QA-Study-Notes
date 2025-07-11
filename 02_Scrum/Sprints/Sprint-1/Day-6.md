@@ -21,4 +21,4 @@
 - **Artigos e Tutoriais**: Procure por artigos e tutoriais sobre testes de software e o princípio de Pareto.
 - **Documentação Oficial**: Explore a documentação de frameworks de teste como PyTest para Python.
 
-Se precisar de mais ajuda ou tiver alguma dúvida específica, estou aqui para ajudar! 😊
+

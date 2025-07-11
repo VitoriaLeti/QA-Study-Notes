@@ -15,10 +15,5 @@
 
 ## 🎯 Próximos Passos
 - Continuar estudando os tipos de teste, especialmente testes unitários e E2E.
-- Aplicar os conceitos de Myers e Pareto em exemplos práticos.
-
-### Recursos Adicionais:
-- **Artigos e Tutoriais**: Procure por artigos e tutoriais sobre testes de software e o princípio de Pareto.
-- **Documentação Oficial**: Explore a documentação de frameworks de teste como PyTest para Python.
 
 

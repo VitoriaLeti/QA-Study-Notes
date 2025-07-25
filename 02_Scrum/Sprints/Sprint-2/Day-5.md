@@ -8,7 +8,7 @@
 - Importância das *issues* no gerenciamento de projetos.
 - Como criar *issues* claras e objetivas.
 - Boas práticas para descrever tarefas e problemas.
-- Utilização de *issues* em plataformas como GitHub.
+- Utilização de *issues* em plataformas como GitHub e jira.
 
 ---
 
